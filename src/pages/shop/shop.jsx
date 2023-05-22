@@ -6,7 +6,7 @@ import './shop.css';
     return(
         <div className="shop">
            <div className="shopTitle">
-                <h1>Strahinja Shop</h1>      
+                <h1>Shop</h1>      
            </div>
            <div className="products">
                 {PRODUCTS.map((product=>
